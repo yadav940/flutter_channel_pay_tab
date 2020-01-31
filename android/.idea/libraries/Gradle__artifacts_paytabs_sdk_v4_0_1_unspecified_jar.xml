@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:paytabs_sdk-v4.0.1:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/paytabs_sdk-v4.0.1/build/.transforms/05bd85e6a38845beaf216d33c2231df8/jetified-paytabs_sdk-v4.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/paytabs_sdk-v4.0.1/build/.transforms/05bd85e6a38845beaf216d33c2231df8/jetified-paytabs_sdk-v4.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

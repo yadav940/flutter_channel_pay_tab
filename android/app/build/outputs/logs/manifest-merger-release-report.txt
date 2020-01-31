@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:5:1-33:12
+INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:5:1-33:12
+INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:5:1-33:12
+INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:5:1-33:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\8a588bbde602538e0d35cb058db16ce5\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\6b08058a2c13bb3ab0d3f00a97cbad20\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:2:1-26:12
+MERGED from [com.github.dbachelder:CreditCardEntry:1.4.9] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\6f50e3c33a145131c14244af62ff290d\jetified-CreditCardEntry-1.4.9\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\728e3ab629a79be6a1f6b8cd2b4cb530\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\66b057c4e104343a5c33fed1c57459b8\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\e07bb2bd4f10da33e822d8a3eb0cfb15\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\add59dc1f0714d8616c846000fc0d732\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\04a3e0a803ec145a8dc32ded5564d164\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\eedcc5e72312908e41cfbb7c6baf3fa3\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\e71bb73bda240bbe6d659f02e158ac76\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\8602d063bbc3eddf502bfa93c7024ed8\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\cc7700cede47702128effd3763dadcba\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\03f9c664f4cec83565e9d0f0e36b7cee\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\d1cfc7fe0025324fbdb06b49386cb7fe\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\1b103301018d02d9fbf02a91bf135256\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\fed62c75f6a940b9da56047e94bb5b9e\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\2a02dc8d8703659a2bcb178adf798d6d\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\fafa0a1e3a0474329a83ded327f937bf\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\6477624e35570e0f2e05a930087c1dae\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\351e150d46ffdd0e0be14191c576b60c\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\f3c17c2bf11cba8fadb40ff8964fe98c\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\7199562954b1624cf01c41b027681210\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\c48f4990cb38eb2395ec2b869c3ff430\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\2a3e8fa3ef338e1c1c7f5915f08221e5\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\81a256db93caa5a28c19c91a65d96d29\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\764a52de36b1df386a3248a61395698a\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\6b83bbec1913f6b4a72677ce583d9e1b\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\7eafac3a8933bf1e82036654807dc53e\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\2ba0eaaa9b7dca5b1a04c67473ebdb0a\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\132f6ef45a6900899800613afa0d0f9b\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\7a57519896e9644333ef478e40e9c747\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:5:1-33:12
+INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:5:1-33:12
+INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:5:1-33:12
+	package
+		ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:6:5-42
+		INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:5:1-33:12
+		INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:5:1-33:12
+		INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:5:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:12:5-66
+MERGED from [:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:12:5-67
+MERGED from [:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:13:22-76
+application
+ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:15:5-32:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\8a588bbde602538e0d35cb058db16ce5\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\8a588bbde602538e0d35cb058db16ce5\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:15:5-24:19
+MERGED from [:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:15:5-24:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\6477624e35570e0f2e05a930087c1dae\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\6477624e35570e0f2e05a930087c1dae\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\f3c17c2bf11cba8fadb40ff8964fe98c\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\f3c17c2bf11cba8fadb40ff8964fe98c\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\6477624e35570e0f2e05a930087c1dae\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from [:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:15:18-44
+	android:label
+		ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:15:18-50
+activity#com.example.platformchannel.MainActivity
+ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:16:9-26:20
+	android:launchMode
+		ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:17:19-49
+	android:hardwareAccelerated
+		ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:20:19-53
+	android:windowSoftInputMode
+		ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:21:19-61
+	android:configChanges
+		ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:19:19-150
+	android:theme
+		ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:18:19-72
+	android:name
+		ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:23:17-68
+	android:name
+		ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:24:27-74
+meta-data#flutterEmbedding
+ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:29:9-31:33
+	android:value
+		ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:31:13-30
+	android:name
+		ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:30:13-44
+uses-sdk
+INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\8a588bbde602538e0d35cb058db16ce5\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\8a588bbde602538e0d35cb058db16ce5\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\6b08058a2c13bb3ab0d3f00a97cbad20\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\6b08058a2c13bb3ab0d3f00a97cbad20\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.dbachelder:CreditCardEntry:1.4.9] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\6f50e3c33a145131c14244af62ff290d\jetified-CreditCardEntry-1.4.9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.dbachelder:CreditCardEntry:1.4.9] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\6f50e3c33a145131c14244af62ff290d\jetified-CreditCardEntry-1.4.9\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\728e3ab629a79be6a1f6b8cd2b4cb530\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\728e3ab629a79be6a1f6b8cd2b4cb530\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\66b057c4e104343a5c33fed1c57459b8\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\66b057c4e104343a5c33fed1c57459b8\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\e07bb2bd4f10da33e822d8a3eb0cfb15\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\e07bb2bd4f10da33e822d8a3eb0cfb15\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\add59dc1f0714d8616c846000fc0d732\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\add59dc1f0714d8616c846000fc0d732\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\04a3e0a803ec145a8dc32ded5564d164\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\04a3e0a803ec145a8dc32ded5564d164\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\eedcc5e72312908e41cfbb7c6baf3fa3\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\eedcc5e72312908e41cfbb7c6baf3fa3\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\e71bb73bda240bbe6d659f02e158ac76\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\e71bb73bda240bbe6d659f02e158ac76\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\8602d063bbc3eddf502bfa93c7024ed8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\8602d063bbc3eddf502bfa93c7024ed8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\cc7700cede47702128effd3763dadcba\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\cc7700cede47702128effd3763dadcba\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\03f9c664f4cec83565e9d0f0e36b7cee\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\03f9c664f4cec83565e9d0f0e36b7cee\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\d1cfc7fe0025324fbdb06b49386cb7fe\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\d1cfc7fe0025324fbdb06b49386cb7fe\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\1b103301018d02d9fbf02a91bf135256\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\1b103301018d02d9fbf02a91bf135256\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\fed62c75f6a940b9da56047e94bb5b9e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\fed62c75f6a940b9da56047e94bb5b9e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\2a02dc8d8703659a2bcb178adf798d6d\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\2a02dc8d8703659a2bcb178adf798d6d\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\fafa0a1e3a0474329a83ded327f937bf\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\fafa0a1e3a0474329a83ded327f937bf\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\6477624e35570e0f2e05a930087c1dae\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\6477624e35570e0f2e05a930087c1dae\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\351e150d46ffdd0e0be14191c576b60c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\351e150d46ffdd0e0be14191c576b60c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\f3c17c2bf11cba8fadb40ff8964fe98c\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\f3c17c2bf11cba8fadb40ff8964fe98c\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\7199562954b1624cf01c41b027681210\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\7199562954b1624cf01c41b027681210\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\c48f4990cb38eb2395ec2b869c3ff430\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\c48f4990cb38eb2395ec2b869c3ff430\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\2a3e8fa3ef338e1c1c7f5915f08221e5\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\2a3e8fa3ef338e1c1c7f5915f08221e5\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\81a256db93caa5a28c19c91a65d96d29\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\81a256db93caa5a28c19c91a65d96d29\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\764a52de36b1df386a3248a61395698a\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\764a52de36b1df386a3248a61395698a\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\6b83bbec1913f6b4a72677ce583d9e1b\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\6b83bbec1913f6b4a72677ce583d9e1b\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\7eafac3a8933bf1e82036654807dc53e\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\7eafac3a8933bf1e82036654807dc53e\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\2ba0eaaa9b7dca5b1a04c67473ebdb0a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\2ba0eaaa9b7dca5b1a04c67473ebdb0a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\132f6ef45a6900899800613afa0d0f9b\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\132f6ef45a6900899800613afa0d0f9b\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\7a57519896e9644333ef478e40e9c747\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\7a57519896e9644333ef478e40e9c747\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:13:22-76
+activity#com.paytabs.paytabs_sdk.payment.ui.activities.PayTabActivity
+ADDED from [:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:16:9-19:66
+	android:screenOrientation
+		ADDED from [:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:18:13-49
+	android:theme
+		ADDED from [:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:19:13-63
+	android:name
+		ADDED from [:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:17:13-88
+activity#com.paytabs.paytabs_sdk.payment.ui.activities.SecurePaymentActivity
+ADDED from [:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:20:9-23:66
+	android:screenOrientation
+		ADDED from [:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:22:13-49
+	android:theme
+		ADDED from [:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:23:13-63
+	android:name
+		ADDED from [:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:21:13-95

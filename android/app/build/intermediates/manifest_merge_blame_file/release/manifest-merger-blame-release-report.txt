@@ -1,0 +1,95 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright 2014 The Flutter Authors. All rights reserved.
+4Use of this source code is governed by a BSD-style license that can be
+5found in the LICENSE file.
+6-->
+7<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+8    package="io.flutter.examples.platform_channel"
+9    android:versionCode="1"
+10    android:versionName="1.0" >
+11
+12    <uses-sdk
+13        android:minSdkVersion="16"
+13-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml
+14        android:targetSdkVersion="28" />
+14-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml
+15
+16    <!--
+17         The INTERNET permission is required for development. Specifically,
+18         flutter needs it to communicate with the running application
+19         to allow setting breakpoints, to provide hot reload, etc.
+20    -->
+21    <uses-permission android:name="android.permission.INTERNET" />
+21-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:12:5-66
+21-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:12:22-64
+22    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+22-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:13:5-78
+22-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:13:22-76
+23    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+23-->[:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:13:5-79
+23-->[:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:13:22-76
+24
+25    <application
+25-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:15:5-32:19
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.0.0] C:\Users\vinod\.gradle\caches\transforms-2\files-2.1\6477624e35570e0f2e05a930087c1dae\core-1.0.0\AndroidManifest.xml:22:18-86
+27        android:label="@string/app_name"
+27-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:15:18-50
+28        android:supportsRtl="true" >
+28-->[:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:15:18-44
+29        <activity
+29-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:16:9-26:20
+30            android:name="com.example.platformchannel.MainActivity"
+30-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:16:19-47
+31            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+31-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:19:19-150
+32            android:hardwareAccelerated="true"
+32-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:20:19-53
+33            android:launchMode="singleTop"
+33-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:17:19-49
+34            android:theme="@android:style/Theme.Black.NoTitleBar"
+34-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:18:19-72
+35            android:windowSoftInputMode="adjustResize" >
+35-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:21:19-61
+36            <intent-filter>
+36-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:22:13-25:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:23:17-68
+37-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:23:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:24:17-76
+39-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:24:27-74
+40            </intent-filter>
+41        </activity>
+42        <!--
+43         Don't delete the meta-data below.
+44         This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+45        -->
+46        <meta-data
+46-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:29:9-31:33
+47            android:name="flutterEmbedding"
+47-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:30:13-44
+48            android:value="2" />
+48-->E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\app\src\main\AndroidManifest.xml:31:13-30
+49
+50        <activity
+50-->[:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:16:9-19:66
+51            android:name="com.paytabs.paytabs_sdk.payment.ui.activities.PayTabActivity"
+51-->[:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:17:13-88
+52            android:screenOrientation="portrait"
+52-->[:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:18:13-49
+53            android:theme="@style/PaytabsAppTheme.NoActionBar" />
+53-->[:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:19:13-63
+54        <activity
+54-->[:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:20:9-23:66
+55            android:name="com.paytabs.paytabs_sdk.payment.ui.activities.SecurePaymentActivity"
+55-->[:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:21:13-95
+56            android:screenOrientation="portrait"
+56-->[:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:22:13-49
+57            android:theme="@style/PaytabsAppTheme.NoActionBar" />
+57-->[:paytabs_sdk-v4.0.1] E:\PROJECT\git\Flutter\all flutter\flutter\examples\platform_channel\android\paytabs_sdk-v4.0.1\build\.transforms\05bd85e6a38845beaf216d33c2231df8\jetified-paytabs_sdk-v4.0.1\AndroidManifest.xml:23:13-63
+58    </application>
+59
+60</manifest>

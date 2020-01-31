@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\PROJECT\\git\\Flutter\\all flutter\\flutter\\examples\\platform_channel\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "E:\\PROJECT\\git\\Flutter\\all flutter\\flutter\\examples\\platform_channel\\android\\paytabs_sdk-v4.0.1\\build\\.transforms\\05bd85e6a38845beaf216d33c2231df8\\jetified-paytabs_sdk-v4.0.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,150,196,245,304,361,416,476,537,592,638,683",
+                        "endColumns": "43,50,45,48,58,56,54,59,60,54,45,44,45",
+                        "endOffsets": "94,145,191,240,299,356,411,471,532,587,633,678,724"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vinod\\.gradle\\caches\\transforms-2\\files-2.1\\6b08058a2c13bb3ab0d3f00a97cbad20\\appcompat-1.0.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "729",
+                        "endLines": "19",
+                        "endColumns": "13",
+                        "endOffsets": "1001"
+                    }
+                }
+            ]
+        }
+    ]
+}
